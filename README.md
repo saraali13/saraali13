@@ -8,7 +8,7 @@ I'm an enthusiastic **BS Artificial Intelligence** student at **FAST NUCES Karac
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/syeda-sara-ali-a336432b7/)
 
 ### 💻 Tech Stack
-- **Programming Languages:** Python, C, C++, html,css,flutter
+- **Programming Languages:** Python, C, C++, html, css, flutter
 
 ### 📚 Academic Highlights
 - 🎓 **Matric:** 97% - *Fatimiyah Girls School*  
