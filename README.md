@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there! 👋 I'm Sara Ali
 
-<!--
-**saraali13/saraali13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm an enthusiastic **BS Artificial Intelligence** student at **FAST NUCES Karachi** with a **3.3+ CGPA**, passionate about coding, data structures, and problem-solving. I have a strong foundation in both theoretical and practical aspects of computer science, and I'm actively honing my skills in various domains.
 
-Here are some ideas to get you started:
+### 📫 Connect with Me
+- 📧 Reach me at [sarazaidi726@gmail.com](mailto:sarazaidi726@gmail.com)
+- 🌐 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Programming Languages:** Python, C, C++
+
+### 📚 Academic Highlights
+- 🎓 **Matric:** 97% - *Fatimiyah Girls School*  
+- 📖 **Intermediate:** 80+% - *BAMM PECHS College*  
+- 🏅 Completed **MS Azure AI** and **Google AI** courses during summer breaks
+
+
+### ⚡ Let's Build Something Awesome Together!
+
