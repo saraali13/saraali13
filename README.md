@@ -5,7 +5,7 @@ I'm an enthusiastic **BS Artificial Intelligence** student at **FAST NUCES Karac
 
 ### 📫 Connect with Me
 - 📧 Reach me at [sarazaidi726@gmail.com](mailto:sarazaidi726@gmail.com)
-- 🌐 [LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/syeda-sara-ali-a336432b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwU8L8SZfT2e84dZVMjqIGQ%3D%3D))
+- 🌐 [LinkedIn Profile]([[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/syeda-sara-ali-a336432b7/overlay/contact-info/)])
 
 ### 💻 Tech Stack
 - **Programming Languages:** Python, C, C++
