@@ -76,11 +76,12 @@ Smart workflows for Gmail, Slack, Sheets, and AI summarization.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraali13&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
+<p align="center"> <img src="https://ghchart.rshah.org/00F7FF/saraali13" alt="Sara Ali's GitHub Contributions" /> </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saraali13&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
+
 
 ⭐ *“Building AI systems that turn ideas into intelligent products.”*
