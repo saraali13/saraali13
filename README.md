@@ -71,10 +71,13 @@ Smart workflows for Gmail, Slack, Sheets, and AI summarization.
 
 ---
 
-## 📈 Activity Graph
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saraali13&theme=tokyo-night" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=saraali13&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
